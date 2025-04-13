@@ -91,9 +91,13 @@ Para adicionar o repositório remoto com o nome desejado:
 
 
 12-Suba para o repositório remoto tanto a branch main quanto a branch add-comandos.
+Para subir a branch add-comandos:
+	git push -u origin-atividade add-comandos
+para subir a branch main:
+	git push -u origin-atividade main
 
 
-
-No repositório remoto, faça a junção da branch add-comandos na branch main através do MR (Merge Request, no gitlab) ou PR (Pull Request, no github). Mantenha a branch add-comandos após o MR/PR.
+13-No repositório remoto, faça a junção da branch add-comandos na branch main através do MR (Merge Request, no gitlab) ou PR (Pull Request, no github). Mantenha a branch add-comandos após o MR/PR.
 Certifique-se de que o histórico de commits está completo e bem descrito.
+Estas ações foram realizadas no GitHub.
 
